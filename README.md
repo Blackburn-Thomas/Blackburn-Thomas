@@ -1,57 +1,57 @@
 # Hi, I'm Thomas 👋
 
-🎯 Aspiring **Data Engineer** with experience building end-to-end data & AI systems  
+🎯 Aspiring **Data Engineer** with a strong interest in data-driven systems  
 📍 UK  
-💡 Interested in **data pipelines, machine learning systems, and computer vision applications**
+💡 Interested in **data engineering, machine learning, and applied data problems**, particularly in areas like **defence and security**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛰 Defence Satellite Intelligence AI  
-End-to-end pipeline leveraging **computer vision + data engineering** to extract insights from satellite imagery.
+### 🛰 Defence Satellite Intelligence Project  
+A data-focused project exploring how satellite imagery can be used for intelligence-style analysis.
 
-- Built data ingestion and preprocessing pipeline for image data  
-- Applied computer vision techniques for analysis  
-- Designed with a **real-world defence intelligence use case** in mind  
+- Built a data processing workflow for handling and preparing image data  
+- Applied basic computer vision techniques for analysis  
+- Designed around a **real-world defence and intelligence use case**  
 👉 https://github.com/Blackburn-Thomas/defence-satellite-intelligence-ai
 
 ---
 
 ### 🚆 UK Rail Delay Data Pipeline  
-Scalable data pipeline analysing UK rail delays.
+A project analysing UK rail delays through a structured data pipeline.
 
-- ETL pipeline for ingesting and transforming real-world transport data  
-- Data modelling + analysis for delay patterns  
-- Focus on **reliability and pipeline structure**  
+- Developed an ETL-style workflow for ingesting and transforming transport data  
+- Performed analysis on delay patterns and contributing factors  
+- Focus on **clear pipeline structure and reproducibility**  
 👉 https://github.com/Blackburn-Thomas/uk-rail-delay-pipeline
 
 ---
 
 ## 🧠 Skills
 
-**Core (Data Engineering):**  
-Python, SQL, ETL Pipelines, Data Modelling  
+**Programming & Data:**  
+Python, SQL, Pandas, NumPy  
 
-**Data & Analysis:**  
-Pandas, NumPy, Data Cleaning, Exploratory Analysis  
+**Core Concepts:**  
+Data pipelines, data cleaning, exploratory analysis  
 
-**AI / Machine Learning:**  
-Computer Vision basics, Model integration, Data preprocessing for ML  
+**Exposure to:**  
+Machine learning workflows, basic computer vision techniques  
 
 **Tools:**  
-Git, GitHub
+Git, GitHub  
 
 ---
 
-## 🏗️ What I Focus On
+## 🏗️ What I'm Focused On
 
-- Building **end-to-end data pipelines** 
-- Structuring projects like **production systems**  
-- Combining **data engineering + ML/AI** for real-world problems  
+- Developing **well-structured data pipelines**  
+- Improving understanding of **end-to-end data workflows**  
+- Applying data techniques to **real-world problem domains**
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: [https://www.linkedin.com/in/blackburn-thomas/]
+- LinkedIn: [linkedin.com/in/blackburn-thomas]
