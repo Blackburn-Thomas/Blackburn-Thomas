@@ -54,4 +54,4 @@ Git, GitHub
 
 ## 📫 Contact
 
-- LinkedIn: [linkedin.com/in/blackburn-thomas]
+- LinkedIn: [https://linkedin.com/in/blackburn-thomas]
